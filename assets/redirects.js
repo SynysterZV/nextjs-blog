@@ -20,5 +20,8 @@ export default {
             "og:title": "Appeal Here!",
             "og:description": "Appeal a ban from the Ad Nauseam Discord/Minecraft server(s)",
         }
+    },
+    kekw: {
+        url: 'https://www.youtube.com/watch?v=ohBktJeo9Ww',
     }
 }
